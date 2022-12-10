@@ -1,0 +1,6 @@
+file = open('dziesiec.txt','w')
+file.write("Bartlomiej\n")
+file.write("Rapala\n")
+file.write("UEK\n")
+file.write("Informatyka stosowana")
+file.close()
